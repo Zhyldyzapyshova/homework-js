@@ -5,6 +5,6 @@
 let sum = 0;
 let x = 1;
 while (x <= 20) {
-    console.log (sum = sum + x);
+    sum = sum + x;
     x++;
 }
